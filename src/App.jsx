@@ -354,7 +354,7 @@ function App() {
                 </h2>
 
                 <blockquote>
-                  I still remember seeing you at the counter in Jaro, Pavia, Iloilo. You were buying some goods, and when you saw me, you started trembling. The coins in your hand fell onto the floor. It was such a simple and funny moment, but it became one of my favorite memories because it was the beginning of something I never expected to become this important.
+                  I still remember seeing you at the counter in Robinson Jaro, Iloilo City. You were buying some goods, and when you saw me, you started trembling. The coins in your hand fell onto the floor. It was such a simple and funny moment, but it became one of my favorite memories because it was the beginning of something I never expected to become this important.
                 </blockquote>
 
                 <p className="section-description">
